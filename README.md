@@ -10,7 +10,7 @@ Added a variable to define the length of pizzaContainer
 
 Inlined style.css and added async to style tag in pizza.html
 
-Tested the speed and got a 95/100 summary for desktop experience from pagespeed insights
+Tested the speed and got a 95/100 summary for desktop experience and 89/100 for mobile from pagespeed insights
 
 Configured a viewport to scale fonts for mobile experience
 
