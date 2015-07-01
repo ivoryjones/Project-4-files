@@ -15,3 +15,5 @@ Tested the speed and got a 95/100 summary for desktop experience and 89/100 for 
 Configured a viewport to scale fonts for mobile experience
 
 For the website, bootstrap-grid.css and main.js have been minified
+
+Changed document.querySelectorAll() to document.getElementsByClassName() for speed optimization
