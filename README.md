@@ -1,5 +1,6 @@
 Ivory Jones
 
+To view the project, visit http://ivoryjones.github.io/Project-4-files/views/pizza.html
 
 To optimize the speed for pizza.html, I did the following:
 
@@ -20,3 +21,5 @@ Changed document.querySelectorAll() to document.getElementsByClassName() for spe
 Reduced the number of pizzas that load on the screen
 
 Changed the height of the pizzas that load to fit most screen sizes
+
+
