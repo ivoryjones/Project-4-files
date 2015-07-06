@@ -1,6 +1,5 @@
 Ivory Jones
 
-Visit http://ivoryjones.github.io/Project-4/views/pizza.html to test the project. 
 
 To optimize the speed for pizza.html, I did the following:
 
@@ -17,3 +16,7 @@ Configured a viewport to scale fonts for mobile experience
 For the website, bootstrap-grid.css and main.js have been minified
 
 Changed document.querySelectorAll() to document.getElementsByClassName() for speed optimization
+
+Reduced the number of pizzas that load on the screen
+
+Changed the height of the pizzas that load to fit most screen sizes
